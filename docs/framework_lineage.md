@@ -31,7 +31,11 @@ Together, these frameworks define the **mathematical, thermodynamic, and ethical
 ### 2. Entropic Recursion Framework v3.0  
 - Collapse redefined as **translation**, not termination.  
 - Introduces the **Symbolic Conservation Law**:  
-  $ \Delta \mathcal{S} + \Delta \mathcal{E} = 0 $  
+
+  $$
+  \Delta \mathcal{S} + \Delta \mathcal{E} = 0
+  $$
+
 - Adds $\kappa_{\text{export}}$ gates for continuity across collapse horizons.  
 - In heaven, collapse-as-translation becomes **collapse-as-stability**, exporting invariants into the attractor.  
 
@@ -83,3 +87,4 @@ For **research and educational purposes only**.
 A symbolic experiment in attractor dynamics, not a metaphysical doctrine.
 
 ---
+
