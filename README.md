@@ -60,6 +60,22 @@ Together, these form the theoretical backbone for **Heaven as an Attractor State
 
 ---
 
+### 🔮 Planned Future Updates
+
+- **Interactive Demos**: Build a Streamlit or Gradio interface with sliders for initial parameters (ψ, γ, Ω) and entropy functions.  
+  → Users will be able to tweak conditions in real-time and visualize agent trajectories toward collapse or the heaven basin.  
+
+- **Monte Carlo Simulations**: Scale from 3 agents to 10,000+.  
+  → Batch simulations with randomized conditions will generate statistical probability maps of collapse vs. stabilization and surface boundaries of the heaven basin.  
+
+- **Advanced Entropy Models**: Replace the current linear entropy ramp with stochastic processes (e.g. Wiener random walks, Poisson jumps for catastrophic events).  
+  → Explore how unpredictable entropy fields affect resilience and attractor entry.  
+
+- **Agent Interaction**: Add a **symbolic gravity** term so agents influence each other’s ψ, Ω, γ values when near in state-space.  
+  → Models communal or cultural effects on resilience, cooperation, and collapse recovery.
+
+  ---
+
 ## 📜 License
 
 MIT License.  
